@@ -1,0 +1,5 @@
+Ali,17.5
+Sara,18.9
+Reza,abc
+Mona
+Neda,16.4
